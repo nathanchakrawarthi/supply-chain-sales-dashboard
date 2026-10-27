@@ -15,7 +15,8 @@ An interactive Power BI dashboard built to explore sales performance across prod
 - **Average Order Value:** €13.73
 
 ## Dashboard Preview
-![Supply Chain Sales Dashboard](images/dashboard-preview.png)
+<img width="900" height="506" alt="Screenshot 2026-10-27 132654" src="https://github.com/user-attachments/assets/889977c1-92c1-4e4c-9b41-554184238503" />
+
 
 ## Dashboard Visualizations
 - **Revenue by Product Category:** Compares revenue from Vegetables and Fruit.
