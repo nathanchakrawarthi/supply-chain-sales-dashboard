@@ -1,0 +1,26 @@
+PK_Product,ProductCode,ProductName,ProductCategory,ProductUnitPrice
+1,APP,Apple,Fruit,1.13
+2,APR,Apricot,Fruit,2.2
+3,BAN,Banana,Fruit,2.04
+4,CRA,Cranberry,Fruit,11.34
+5,KIW,Kiwifruit,Fruit,3.24
+6,LEM,Lemon,Fruit,1.5
+7,MAN,Mango,Fruit,4.58
+8,ORA,Orange,Fruit,1.4
+9,PIN,Pineapple,Fruit,2.55
+10,STR,Strawberry,Fruit,10.52
+11,PAP,Papaya,Fruit,1.95
+12,MEL,Melon,Fruit,4.93
+13,RAS,Raspberry,Fruit,7.32
+14,TOM,Tomato,Fruit,1.8
+15,PEA,Peach,Fruit,3.88
+16,ASP,Asparagus,Vegetable,12.12
+17,BRO,Broccoli,Vegetable,3.73
+18,BRU,Brussels sprout,Vegetable,5.81
+19,CEL,Celery,Vegetable,1.3
+20,LET,Lettuce,Vegetable,5.95
+21,ONI,Onion,Vegetable,0.8
+22,RHU,Rhubarb,Vegetable,7.46
+23,RAD,Radish,Vegetable,4.13
+24,CAR,Carrot,Vegetable,1.79
+25,KAL,Kale,Vegetable,2.78

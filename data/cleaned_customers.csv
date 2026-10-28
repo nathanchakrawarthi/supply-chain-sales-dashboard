@@ -1,0 +1,13 @@
+PK_Customer,CustomerCode,CustomerFirstName,CustomerLastName,Country,CountryISOCode,City,Gender,Birthdate,CustomerFullName
+1,N79H709,Arnaud,Gastelblum,Belgium,BE,Mouscron,M,09-Apr-1982,Arnaud Gastelblum
+2,Z92R903,Pauline,Peanut,France,FR,Villefranche sur mer,F,23-Jun-1993,Pauline Peanut
+3,H59L252,Antoine,Legrand,Nederland,NL,Rotterdam,M,08-Jun-1984,Antoine Legrand
+4,O30R794,Coralie,Brent,Nederland,NL,Maastricht,F,20-Apr-1962,Coralie Brent
+5,B42W912,Julien,Pomodoro,France,FR,Roubaix,M,27-Nov-1985,Julien Pomodoro
+6,I85S191,Sarah,Croche,France,FR,Paris,F,11-May-1959,Sarah Croche
+7,L75A698,Mike,Jeff,Nederland,NL,Amsterdam,M,12-Dec-1976,Mike Jeff
+8,K49A336,Amina,Loo,Belgium,BE,Brussels,F,23-Oct-1940,Amina Loo
+9,Q44B467,Bjorn,Bio,Belgium,BE,Charleroi,M,23-Aug-1945,Bjorn Bio
+10,Z91K849,Lisa,Dagusti,Belgium,BE,Antwerp,F,28-Nov-1957,Lisa Dagusti
+11,K74L961,Theresa,Limande,France,FR,Strasbourg,F,12-Jun-1974,Theresa Limande
+12,V17E452,Hilde,Vanderelst,Nederland,NL,Amsterdam,F,19-Oct-1969,Hilde Vanderelst
